@@ -1,0 +1,219 @@
+1. Two Pointers
+
+        Valid Palindrome
+        3Sum
+        Sort Colors
+        Reverse Words in a String
+        Squares of a Sorted Array
+        Partition Labels
+        String Compression
+        Next Permutation
+        Remove Duplicates from Sorted Array
+        Is Subsequence
+
+2. Fast & Slow Pointers
+
+        Linked List Cycle
+        Middle of the Linked List
+        Find The Duplicate Number
+        Palindrome Linked List
+        Maximum Twin Sum of a Linked List
+
+
+3. Sliding Window (VERY IMPORTANT)
+
+        Longest Substring without Repeating Characters
+        Longest Repeating Character Replacement
+        Minimum Window Substring
+        Minimum Size Subarray Sum
+        Fruit Into Baskets
+        Frequency of the Most Frequent Element
+        Binary Subarrays With Sum
+        Permutation in String
+        Number of Substrings Containing All Three Characters
+        Sliding Window Maximum
+
+
+4. Intervals
+
+        Merge Intervals
+        Insert Interval
+        Meeting Rooms II
+        Interval List Intersections
+        Task Scheduler
+        Car Pooling
+
+5. Linked List In-place
+
+        Reverse Linked List
+        Reorder List
+        Reverse Linked List II
+        Swap Nodes in Pairs
+        Odd Even Linked List
+        Rotate List
+
+        Optional:
+            Reverse Nodes in k-Group
+
+6. Heaps / Priority Queue
+
+        Find Median from Data Stream
+        Meeting Rooms III
+        Minimum Cost to Connect Sticks
+        Maximum Average Pass Ratio
+        Find Right Interval
+
+7. K-way Merge
+
+        Merge K Sorted Lists
+        Find K Pairs with Smallest Sums
+        Kth Smallest Element in a Sorted Matrix
+
+8. Top K Elements
+
+        Top K Frequent Elements
+        K Closest Points to Origin
+        Kth Largest Element in an Array
+        Reorganize String
+        Least Number of Unique Integers after K Removals
+        Maximum Product After K Increments
+
+9. Binary Search (VERY HIGH ROI)
+
+        Binary Search
+        Search in Rotated Sorted Array
+        Find K Closest Elements
+        Single Element in a Sorted Array
+        Koko Eating Bananas
+        Find Peak Element
+        Find First and Last Position
+        Split Array Largest Sum
+
+10. Backtracking
+
+        Subsets
+        Permutations
+        Generate Parentheses
+        Letter Combinations of a Phone Number
+        Word Search
+        Combinations
+        N-Queens (understand pattern)
+
+11. Greedy
+
+
+        Jump Game I
+        Jump Game II
+        Gas Station
+        Boats to Save People
+        Candy
+        Remove K Digits
+        Best Time to Buy and Sell Stock II
+
+12. Dynamic Programming (MOST IMPORTANT)
+
+        Coin Change
+        Maximum Product Subarray
+        Word Break
+        Longest Common Subsequence
+        Decode Ways
+        Climbing Stairs
+        Partition Equal Subset Sum
+        House Robber II
+        Triangle
+        Interleaving String
+        Min Cost Climbing Stairs
+        Longest Increasing Subsequence
+        Distinct Subsequences
+        Maximum Subarray
+        House Robber
+        Unique Paths
+
+These cover:
+
+        1D DP
+        Knapsack
+        subsequence DP
+        grid DP
+        interval-style thinking
+
+13. Graphs
+
+
+        Clone Graph
+        Network Delay Time
+        Path with Maximum Probability
+        Max Area of Island
+        Number of Islands
+        Course Schedule
+        Course Schedule II
+        Word Ladder
+        Pacific Atlantic Water Flow
+        Rotting Oranges
+        Number of Provinces
+
+14. Trees (VERY IMPORTANT)
+
+        DFS:
+
+            Lowest Common Ancestor
+            Validate BST
+            Maximum Depth
+            Kth Smallest in BST
+            Diameter of Binary Tree
+            Binary Tree Right Side View
+            Path Sum
+            Serialize and Deserialize Binary Tree
+
+        BFS:
+
+            Level Order Traversal
+            Zigzag Traversal
+            Symmetric Tree
+
+15. Stack
+
+        Valid Parentheses
+        Decode String
+        Daily Temperatures
+        Basic Calculator
+        Longest Valid Parentheses
+        Largest Rectangle in Histogram
+        Asteroid Collision
+        Evaluate Reverse Polish Notation
+
+16. Trie
+
+        Implement Trie
+        Word Search II
+        Search Suggestions System
+
+17. Union Find
+
+        Number of Islands
+        Redundant Connection
+        Accounts Merge
+        Longest Consecutive Sequence
+
+18. Design / LLD-style coding
+
+Very important for experienced roles.
+
+        LRU Cache
+        Time-Based Key-Value Store
+        Insert Delete GetRandom O(1)
+        Min Stack
+        LFU Cache (understand only)
+
+19. Hashing
+
+        Must do:
+
+        Group Anagrams
+        Continuous Subarray Sum
+        Valid Sudoku
+        Contiguous Array
+        Roman to Integer
+        Two Sum
+        Contains Duplicate
+        Product of Array Except Self
